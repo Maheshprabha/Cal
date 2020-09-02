@@ -14,7 +14,9 @@ public class Myuser {
 		//expression.calculate();
 		//Evaluation exp = new Evaluation();
 		//exp.evaluate();
-         Addition add = new Addition();
-         add.addingList();
+         //Addition add = new Addition();
+         //add.addingList();
+		OddAndEven com = new OddAndEven();
+		com.oddMethod();
 	}
 }

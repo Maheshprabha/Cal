@@ -12,10 +12,6 @@ public class Multiplication extends Exception {
 		System.out.print("How many elements you want to multiply : ");
 		int size = scan.nextInt();
 		try {
-			int prod = 0;
-			if(prod == 0 || myArray[i] == 0) {
-				
-			}
             // initialize the array
 			int myArray[] = new int[size];
 			int product = 1;

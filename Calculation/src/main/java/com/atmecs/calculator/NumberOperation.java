@@ -23,10 +23,9 @@ public class NumberOperation  {
 				sum = sum + num;
 				{
 			System.out.println("sum of all " +n+ " nubers is " +sum);
-				
-			
 				}catch(NegativeNumberException e) {
 			      System.out.println("Negativenumberexception ");
+			}
 			}
 			}
 			}

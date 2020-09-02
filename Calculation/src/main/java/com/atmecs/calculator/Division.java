@@ -3,6 +3,8 @@ package com.atmecs.calculator;
 import java.util.Scanner;
 
 public class Division {
+	private int[] a;
+
 	public int divisionOperations() {
 	    
 	    int dividend;
@@ -16,7 +18,7 @@ public class Division {
 		divisior = scan.nextInt();
 		System.out.println("Enter the divisor");{
 			{
-	     int[] a = 1;
+
 		for(int i=0; i<=a.length-1;i++)
 			{
 			quoitent=dividend/divisior;
